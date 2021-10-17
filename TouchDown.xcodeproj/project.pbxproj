@@ -20,6 +20,8 @@
 		91A9E7DC271B27BC0058B182 /* product.json in Resources */ = {isa = PBXBuildFile; fileRef = 91A9E7D8271B27BC0058B182 /* product.json */; };
 		91A9E7E8271B2BC70058B182 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A9E7E7271B2BC70058B182 /* Constant.swift */; };
 		91A9E7EA271B2F070058B182 /* FooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A9E7E9271B2F070058B182 /* FooterView.swift */; };
+		91B7B0F1271C023600A4655B /* NavigationBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B7B0F0271C023600A4655B /* NavigationBarView.swift */; };
+		91B7B0F5271C04A600A4655B /* LogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B7B0F4271C04A600A4655B /* LogoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +59,8 @@
 		91A9E7DF271B28900058B182 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		91A9E7E7271B2BC70058B182 /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
 		91A9E7E9271B2F070058B182 /* FooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FooterView.swift; sourceTree = "<group>"; };
+		91B7B0F0271C023600A4655B /* NavigationBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBarView.swift; sourceTree = "<group>"; };
+		91B7B0F4271C04A600A4655B /* LogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -178,6 +182,8 @@
 			isa = PBXGroup;
 			children = (
 				91A9E7E9271B2F070058B182 /* FooterView.swift */,
+				91B7B0F0271C023600A4655B /* NavigationBarView.swift */,
+				91B7B0F4271C04A600A4655B /* LogoView.swift */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -346,9 +352,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				91A9E7AE271AB2320058B182 /* ContentView.swift in Sources */,
+				91B7B0F5271C04A600A4655B /* LogoView.swift in Sources */,
 				91A9E7EA271B2F070058B182 /* FooterView.swift in Sources */,
 				91A9E7AC271AB2320058B182 /* TouchDownApp.swift in Sources */,
 				91A9E7E8271B2BC70058B182 /* Constant.swift in Sources */,
+				91B7B0F1271C023600A4655B /* NavigationBarView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
