@@ -45,6 +45,7 @@
 		91B7B11F271C8BA600A4655B /* RatingSizesDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B7B11E271C8BA600A4655B /* RatingSizesDetailView.swift */; };
 		91B7B121271C8F4C00A4655B /* QuantityFavouriteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B7B120271C8F4C00A4655B /* QuantityFavouriteView.swift */; };
 		91B7B123271C918000A4655B /* AddToCartDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B7B122271C918000A4655B /* AddToCartDetailView.swift */; };
+		91B7B125271C9A1500A4655B /* Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B7B124271C9A1500A4655B /* Shop.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -107,6 +108,7 @@
 		91B7B11E271C8BA600A4655B /* RatingSizesDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingSizesDetailView.swift; sourceTree = "<group>"; };
 		91B7B120271C8F4C00A4655B /* QuantityFavouriteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuantityFavouriteView.swift; sourceTree = "<group>"; };
 		91B7B122271C918000A4655B /* AddToCartDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToCartDetailView.swift; sourceTree = "<group>"; };
+		91B7B124271C9A1500A4655B /* Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shop.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -282,6 +284,7 @@
 			children = (
 				91A9E7E7271B2BC70058B182 /* Constant.swift */,
 				91B7B11C271C88F300A4655B /* CustomShape.swift */,
+				91B7B124271C9A1500A4655B /* Shop.swift */,
 			);
 			path = Utility;
 			sourceTree = "<group>";
@@ -423,6 +426,7 @@
 				91B7B0FB271C0DC500A4655B /* FeatureItemView.swift in Sources */,
 				91B7B0FD271C0ECB00A4655B /* FeatureTabView.swift in Sources */,
 				91B7B0F9271C0B9100A4655B /* CodableBundleExtension.swift in Sources */,
+				91B7B125271C9A1500A4655B /* Shop.swift in Sources */,
 				91A9E7AE271AB2320058B182 /* ContentView.swift in Sources */,
 				91B7B0F5271C04A600A4655B /* LogoView.swift in Sources */,
 				91B7B10B271C51AE00A4655B /* ProductItemView.swift in Sources */,
